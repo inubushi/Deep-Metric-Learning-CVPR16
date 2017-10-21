@@ -1,5 +1,5 @@
 # Deep Metric Learning via Lifted Structured Feature Embedding - Inubushi's Python Fork
-I added Python code to the original repository for the benefit of those of us who don't have access to Matlab. There are places where the original code is not optimal, but I fdid not try to change much because that might make the code difficult to understand.
+I added Python code to the original repository for the benefit of those of us who don't have access to Matlab. There are places where the original code is not optimal, but I did not try to change much because that might make the code difficult to understand.
 
 This repository has the source code and the Stanford Online Products dataset for the paper "Deep Metric Learning via Lifted Structured Feature Embedding" (CVPR16). The paper is available on [cv-foundation](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Song_Deep_Metric_Learning_CVPR_2016_paper.pdf). If you just need the Caffe code, check out the [Submodule](https://github.com/rksltnl/Caffe-Deep-Metric-Learning-CVPR16). For the loss layer implementation, look at [here](https://github.com/rksltnl/Caffe-Deep-Metric-Learning-CVPR16/blob/0efd7544a9846f58df923c8b992198ba5c355454/src/caffe/layers/lifted_struct_similarity_softmax_layer.cpp).
 
